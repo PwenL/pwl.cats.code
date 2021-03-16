@@ -1,0 +1,95 @@
+        h1 {
+            position: absolute;
+            left: 60px;
+            top: 10px;
+            font: 25px;
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+        }
+        body {
+            background-color: lightblue;
+        }
+
+        #blueborder {
+            border: double dodgerblue 7px;
+        }
+        #padding {
+            padding: 10px;
+        }
+        #darksalmonborder{
+            border: dotted darksalmon 10px;
+        }
+        #pinkborder {
+            border: dashed pink 10px;
+            left: 50px;
+            top: 60px;
+        }
+        #difpadding{
+            padding: 10px 5px 10px 7px;
+        }
+        #marginright{
+            margin: 20px;
+            float: right;
+        }
+        #fixedPosition {
+            position: fixed;
+            bottom: 0px;
+            left: 0px
+        }
+        #marginleft{
+            margin: 15px;
+            float: left;
+        }
+        #relativeTop {
+            position: relative;
+            top: 15px;
+        }
+        #relativeLeft {
+            position: relative;
+            left: 40px;
+        }
+        #center{
+            text-align: center;
+        }
+        .floatright{
+            float: right;
+        }
+        .floatleft{
+            float: left;
+        }
+
+        .whitebox {
+            background-color: white;
+            width: 230px;
+            height: 85px;
+        }
+        .MediumAquaMarinebox{
+            background-color: MediumAquaMarine;
+            width: 230px;
+            height: 85px;
+        }
+
+        .tealbox{
+            background-color: teal;
+            width: 230px;
+            height: 85px;
+        }
+
+        .thistlebox{
+            background-color: thistle;
+            width: 200px;
+            height: 150px;
+        }
+        
+        .a {
+            font: 10px;
+            font-family: "Courier New", Courier, monospace;
+        }
+        .b {
+            font:20px;
+            font-family: "Lucida Console", Monaco, monospace;
+        }
+        .color{
+            color:white;
+        }
+
+
